@@ -1,0 +1,60 @@
+*{
+
+    padding: 0;
+    margin: 30px;
+    box-sizing: border-box;
+}
+
+
+.foto-ryan {
+
+
+    height: 700px;
+    width: 700px;
+
+
+
+}
+
+.descrição {
+
+
+    display: flex;
+    margin: 50px;
+    box-sizing: border-box;
+
+
+
+
+}
+
+.lista{
+
+
+    font-family: 'Times New Roman';
+    
+
+
+}
+
+.copyright{
+
+
+    height: 80%;
+    align-items: center;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.main {
+
+ 
+    height: 80%;
+
+}
+
+
+
+
